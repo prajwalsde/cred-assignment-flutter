@@ -229,8 +229,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 👨‍💻 Author
 
 **Prajwal Jadhav**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/prajwalsde)
 
 ## 🙏 Acknowledgments
 
